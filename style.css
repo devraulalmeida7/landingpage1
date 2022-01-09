@@ -1,0 +1,66 @@
+a {
+    font-family: 'Ubuntu', sans-serif;
+    color: #000;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#wallet {
+    text-decoration: underline #000;
+    color: #000;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    right: 0;
+    padding-right: 40px;
+}
+
+#buttons {
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 630px;
+    top: 40px;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Dancing Script', sans-serif;
+    align-items: center;
+    justify-content: center;
+     font-weight: bold;
+    font-size: 75px;
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 50px;
+} 
+p {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 560px;
+    top: 400px;
+    color: #000;
+    font-size: 18px;
+}
+
+#creator {
+    background-color: #000;
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
+    position: fixed;
+    right: 700px;
+    top: 500px;
+}
+body {
+    background-color: #f5f5dc;
+}
